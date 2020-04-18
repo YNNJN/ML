@@ -2,6 +2,10 @@
 
 
 
+<br>
+
+<br>
+
 ## Step 1 Tutorial
 
 - 2020년 1월 19일  ~ 4월 18일(예정) 
@@ -15,9 +19,13 @@
 
 
 
+<br>
+
 #### # Contents
 
 ---
+
+<br>
 
 #### 0. 사이킷런
 
@@ -61,4 +69,4 @@
 
 #### 10. CNN 실습
 
-**key words:** Automatic differentiation, Convolution, ReLU, Max Pooling, Adam, Dropout
+**key words:** Automatic differentiation, Convolution, ReLU, Max Pooling, Adam, Drop out
